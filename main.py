@@ -46,4 +46,3 @@ bot.run("MTE1Mjk2MDkxMzc3MTYwMjAwMQ.GcINRb.kSNEQDpcDu9g5Q-5DgjPO_nqLzfV5lNwlEOqM
 
 
 
-bot.run("MTE1Mjk2MDkxMzc3MTYwMjAwMQ.GcINRb.kSNEQDpcDu9g5Q-5DgjPO_nqLzfV5lNwlEOqM0")
